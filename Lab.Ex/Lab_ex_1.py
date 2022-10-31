@@ -1,5 +1,4 @@
 # EX.1 Count syllables from user input
-
 """
 user_input = input("Input text \n")
 

@@ -87,7 +87,7 @@ elif action == "div":
 # EX.4 Fill a list with squared elements in range from 1 to 30
 """
 #First method
-squares = [x**2 for x in range(1, 30)]
+squares = [x**2 for x in range(1, 31)]
 print(squares)
 """
 
